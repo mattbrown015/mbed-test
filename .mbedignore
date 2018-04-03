@@ -1,0 +1,15 @@
+mbed-os/features/cellular/easy_cellular/*.cpp
+mbed-os/features/cellular/framework/AT/*.cpp
+mbed-os/features/cellular/framework/common/*.cpp
+mbed-os/features/cellular/framework/targets/QUECTEL/BC95/*.cpp
+mbed-os/features/cellular/framework/targets/QUECTEL/BG96/*.cpp
+mbed-os/features/cellular/framework/targets/TELIT/HE910/*.cpp
+mbed-os/features/cellular/framework/targets/UBLOX/LISA_U/*.cpp
+mbed-os/features/filesystem/*.cpp
+mbed-os/features/filesystem/bd/*.cpp
+mbed-os/features/filesystem/fat/*.cpp
+mbed-os/features/filesystem/fat/ChaN/*.cpp
+mbed-os/features/filesystem/littlefs/*.cpp
+mbed-os/features/filesystem/littlefs/littlefs/*.c
+mbed-os/features/netsocket/*.cpp
+mbed-os/features/cellular/generic_modem_driver/*.cpp
